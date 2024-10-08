@@ -1,6 +1,7 @@
 
-pr_6_animator
-Project Definition: Galaxy Planets (Animator)
+###pr_6_animator
+
+###Project Definition: Galaxy Planets (Animator)
 
 Project Description: "Galaxy Planets (Animator)" is an exciting mobile application built using Flutter, focusing on creating captivating animations. The app incorporates concepts such as Implicit Animation and Explicit Animation, along with additional features like Shared Preferences and Local JSON Bank. It offers a range of functionalities designed to provide users with an immersive and visually stunning experience. "Galaxy Planets (Animator)" aims to deliver an engaging and visually appealing animation experience for users. By incorporating Implicit and Explicit Animation techniques, along with Shared Preferences, a Local JSON Bank, fetching planet details, saving favorites, light and dark themes, a splash screen, and detailed planet screens, the app offers a comprehensive solution for users to explore the wonders of the galaxy through captivating animations.
 
@@ -8,7 +9,7 @@ Project Objectives: Implicit Animation: The app utilizes Implicit Animation tech
 
 Local JSON Bank: Planet details, such as names, descriptions, and images, are stored in a Local JSON Bank. This ensures efficient and reliable access to information without the need for constant internet connectivity. Users can browse through the planet's details seamlessly, even in offline mode. Fetch Planet Details: "Galaxy Planets (Animator)" fetches planet details from the Local JSON Bank, providing users with comprehensive information about various celestial bodies. Users can explore each planet's name, description, and associated images, allowing for an educational and visually rich experience. Add to Favorite Feature: Users can mark specific planet details as favorites, allowing them to create a personalized collection of preferred planets. These favorites are saved using local storage and can be accessed and managed through a dedicated page, making it easy for users to revisit their favorite celestial bodies. Light & Dark Themes: "Galaxy Planets (Animator)" offers a visually appealing experience with customizable themes. Users can switch between light and dark themes based on their preferences, ensuring comfortable usage in different lighting conditions and personalizing their app experience. Splash Screen: The app features an attention-grabbing splash screen that welcomes users to the world of celestial animation. The splash screen can showcase animated elements, celestial imagery, or a captivating intro, setting the stage for an immersive and visually stunning experience. Detail Screen for Each Planet: Each planet has a dedicated detail screen that provides comprehensive information about the celestial body. Users can explore detailed descriptions, view high-quality images, and learn fascinating facts about each planet, enabling an educational and entertaining journey through the galaxy.
 
-Project Technologies:
+##Project Technologies:
 
 Dart language
 Flutter framework with MVC and Provider architecture
@@ -33,34 +34,11 @@ Quality of code and project structure
 Presentation
 
 
+##ScreenShots :-
 
-
-
-
-![IMG-20241008-WA0002](https://github.com/user-attachments/assets/4f9753da-a998-4f14-95de-d60dd8b37c4f)
-
-
-
-
-
-![IMG-20241008-WA0003](https://github.com/user-attachments/assets/0958f35f-02d5-4a07-ba11-42693d5adbab)
-
-
-
-
-
-![IMG-20241008-WA0006](https://github.com/user-attachments/assets/3794ebe1-859e-42ee-bd16-15f1f7ccf169)
-
-
-
-
-![IMG-20241008-WA0005](https://github.com/user-attachments/assets/fcb8c22d-6a15-4b9f-acab-75e66af80cb1)
-
-
-
-![IMG-20241008-WA0004](https://github.com/user-attachments/assets/cc5e2191-dc0a-49a5-8aee-c9d5227854d1)
-
-
-
-
-![IMG-20241008-WA0007](https://github.com/user-attachments/assets/9b479bfe-f737-4110-bf9a-74f92dd2d1dc)
+<img src= "https://github.com/user-attachments/assets/4f9753da-a998-4f14-95de-d60dd8b37c4f" width="200px">
+<img src= "https://github.com/user-attachments/assets/0958f35f-02d5-4a07-ba11-42693d5adbab" width="200px">
+<img src= "https://github.com/user-attachments/assets/3794ebe1-859e-42ee-bd16-15f1f7ccf169" width="200px">
+<img src= "https://github.com/user-attachments/assets/fcb8c22d-6a15-4b9f-acab-75e66af80cb1" width="200px">
+<img src= "https://github.com/user-attachments/assets/cc5e2191-dc0a-49a5-8aee-c9d5227854d1" width="200px">
+<img src= "https://github.com/user-attachments/assets/9b479bfe-f737-4110-bf9a-74f92dd2d1dc" width="200px">
