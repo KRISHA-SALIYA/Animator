@@ -31,3 +31,36 @@ Project Evaluation:
 User satisfaction with the application’s functionality and UI/UX
 Quality of code and project structure
 Presentation
+
+
+
+
+
+
+![IMG-20241008-WA0002](https://github.com/user-attachments/assets/4f9753da-a998-4f14-95de-d60dd8b37c4f)
+
+
+
+
+
+![IMG-20241008-WA0003](https://github.com/user-attachments/assets/0958f35f-02d5-4a07-ba11-42693d5adbab)
+
+
+
+
+
+![IMG-20241008-WA0006](https://github.com/user-attachments/assets/3794ebe1-859e-42ee-bd16-15f1f7ccf169)
+
+
+
+
+![IMG-20241008-WA0005](https://github.com/user-attachments/assets/fcb8c22d-6a15-4b9f-acab-75e66af80cb1)
+
+
+
+![IMG-20241008-WA0004](https://github.com/user-attachments/assets/cc5e2191-dc0a-49a5-8aee-c9d5227854d1)
+
+
+
+
+![IMG-20241008-WA0007](https://github.com/user-attachments/assets/9b479bfe-f737-4110-bf9a-74f92dd2d1dc)
